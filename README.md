@@ -58,4 +58,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - [React](https://react.dev/)
-- [Create React App](https://create-react-app.dev/)
+- [Vite](https://vite.dev/guide/)
